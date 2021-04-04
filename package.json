@@ -12,6 +12,8 @@
     "build:prod": "webpack --config webpack.prod.js",
     "lint": "eslint './src/**/*.ts'",
     "lint:fix": "eslint --fix './src/**/*.ts'",
+    "format": "prettier --check 'src/**/*.ts'",
+    "format:fix": "prettier --write 'src/**/*.ts'",
     "watch": "webpack --watch"
   },
   "license": "MIT",
