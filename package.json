@@ -1,6 +1,6 @@
 {
   "name": "typescript-sample-project",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "TypeScript sample project",
   "author": "First Last <first.last@example.com>",
   "main": "index.js",
